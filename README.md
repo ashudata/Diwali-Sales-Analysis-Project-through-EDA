@@ -3,7 +3,7 @@
 ## Overview  
 Exploratory Data Analysis (EDA) is a crucial step in data science, shaping data-driven decision-making. This project dives into **Diwali Sales data** using Python, showcasing data analysis techniques that reveal valuable business insights. The dataset, sourced from **Kaggle**, provides an ideal foundation for understanding consumer behavior and market trends.  
 
-## Key_Aspects_of_the_Analysis  
+## Key Aspects of the Analysis  
 - 🔹 **Data_Cleaning_&_Manipulation** – Ensuring data consistency and reliability before analysis.  
 - 🔹 **EDA_with_Python** – Leveraging **Pandas, NumPy, Matplotlib, and Seaborn** to visualize and interpret data.  
 - 🔹 **Customer_Segmentation** – Identifying key consumer demographics based on **location, occupation, gender, and age**.  
